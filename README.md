@@ -10,6 +10,8 @@ This repository is to also learn the new NextJS `./app` directory.
 - [Spotify Web Playback Types](https://www.npmjs.com/package/@types/spotify-web-playback-sdk)
 - [Spotify Web API Reference](https://developer.spotify.com/documentation/web-api/reference/#/)
 - [Spotify Dashboard](https://developer.spotify.com/dashboard/login)
+- [Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
+  - Once I learn canvas API with JS, convert to a Rust based Canvas system.
 
 ## Next.JS 13
 
