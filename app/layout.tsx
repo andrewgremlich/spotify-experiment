@@ -1,3 +1,5 @@
+import { Nav } from "./Nav";
+
 import "./globals.css";
 
 export default function RootLayout({
@@ -13,6 +15,7 @@ export default function RootLayout({
       */}
       <head />
       <body>
+        <Nav />
         <main>{children}</main>
       </body>
     </html>
